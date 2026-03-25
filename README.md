@@ -35,7 +35,7 @@ Cada estudiante debe agregar su nombre y el enlace de sus repositorios.
 | 22 | PEÑA CALLE, FRANCO MARIO |
 | 23 | QUIROGA BENITES, DAVID GABRIEL |
 | 24 | REMAYCUNA PARIAHUCHE, ELVIS |
-| 25 | RISCO IMAN, ROBERTO CARLOS |
+| 25 | RISCO IMAN, ROBERTO CARLOS | https://github.com/RobertoC1006/Repositorio_RobertoRisco.git
 | 26 | RUIZ BOCANEGRA, JOSHELYN GABRIELA |
 | 27 | SANCHEZ CALLE, LUCAS EDU |
 | 28 | SILUPU GUERRERO, FABIANO RODRIGO |
